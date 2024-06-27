@@ -43,6 +43,6 @@ To install the Name Picker App, follow these simple steps:
 
 After starting the app, navigate to http://localhost:5173 in your web browser to start using the Name Picker App. Simply enter a keyword or select a category to begin generating names.
 
-##Credits
+## Credits
 
-[https://github.com/icelam](https://github.com/icelam/random-name-picker)
+Visit original repository: [https://github.com/icelam](https://github.com/icelam/random-name-picker)
