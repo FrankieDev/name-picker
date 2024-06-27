@@ -43,6 +43,23 @@ To install the Name Picker App, follow these simple steps:
 
 After starting the app, navigate to http://localhost:5173 in your web browser to start using the Name Picker App. Simply enter a keyword or select a category to begin generating names.
 
+## Technologies Used
+
+This project was built using the following technologies:
+
+- **HTML5:** For structuring the web application's content.
+- **CSS3:** For styling the web application.
+- **JavaScript (ES6+):** For creating interactive user experiences.
+- **TypeScript:** A superset of JavaScript that adds static types, making the code easier to read and debug.
+- **React:** A JavaScript library for building user interfaces.
+- **Node.js:** JavaScript runtime for executing server-side JavaScript code.
+- **npm:** A package manager for JavaScript, used to install third-party libraries and dependencies.
+- **Vite:** A modern frontend build tool that significantly improves the development experience.
+- **Git:** For version control, allowing tracking of changes and collaboration.
+- **GitHub:** Hosts the repository and provides tools for team collaboration.
+
+These technologies provide a robust framework for developing, maintaining, and deploying the Name Picker App.
+
 ## Credits
 
 Visit original repository: [https://github.com/icelam](https://github.com/icelam/random-name-picker)
