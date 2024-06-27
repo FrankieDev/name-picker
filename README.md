@@ -19,30 +19,29 @@ To install the Name Picker App, follow these simple steps:
 
    ```bash
    git clone https://github.com/yourusername/name-picker-app.git
-
    ```
 
 2. Navigate to the app directory:
 
-```bash
-cd name-picker-app
-```
+   ```bash
+   cd name-picker-app
+   ```
 
 3. Install the necessary dependencies:
 
-```bash
-npm install
-```
+   ```bash
+   npm install
+   ```
 
-3. Start the application:
+4. Start the application:
 
-```bash
-npm start
-```
+   ```bash
+   npm run dev
+   ```
 
 ## Usage
 
-After starting the app, navigate to http://localhost:3000 in your web browser to start using the Name Picker App. Simply enter a keyword or select a category to begin generating names.
+After starting the app, navigate to http://localhost:5173 in your web browser to start using the Name Picker App. Simply enter a keyword or select a category to begin generating names.
 
 ##Credits
 
