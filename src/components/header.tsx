@@ -40,6 +40,8 @@ function Header() {
     <div style={styles.header}>
       <div style={styles.github}>
         <a
+          href='https://github.com/FrankieDev/name-picker'
+          target='_blank'
           className='icon-button icon-button--small'
           style={styles.iconButton}
           id='github-button'
